@@ -1,0 +1,6 @@
+dataset/
+
+model-saved.pth
+
+__pycache__
+.ipynb_checkpoints
