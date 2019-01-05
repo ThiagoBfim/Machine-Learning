@@ -11,7 +11,7 @@ Machine Learning project with <b>scikit-learn</b>
 ### Nesse projeto serão abordadas as seguintes técnicas: 
  * Árvore de decisão
  * Floresta aleatória
- * KMeans
+ * Perceptron
  * KNearest Neighboars
  * Regressão Logística
  * MultinomialNB
