@@ -1,6 +1,6 @@
 # Titanic Kaggle
 
-Machine Learning project with <b>scikit-learn<b>
+Machine Learning project with <b>scikit-learn</b>
 
 <p> This project use <a href="https://scikit-learn.org/">scikit-learn</a> 0.19.1</p>
 <p> This project run with <a href="https://jupyter.org/">Jupyter notebook</a> 5.5.0 </p>
@@ -16,7 +16,7 @@ Machine Learning project with <b>scikit-learn<b>
  * Regressão Logística
  * MultinomialNB
 
-<br> Esse projeto utilizará informações de passageiros do Titanic, para conseguir predizer a probabilidade de sobreviver.
+<br> Esse projeto utilizará informações de passageiros do Titanic, para conseguir predizer a probabilidade de sobrevivência.
 <a href="https://www.kaggle.com/c/titanic/">Titanic: Machine Learning from Disaster</a>
 
 
