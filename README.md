@@ -6,7 +6,15 @@ A maioria desses projetos possuem um passo a passo em PT-BR para auxiliar no apr
 
 ### Tópicos abordados
  * **Pytorch**
+     * Humpback Whale - Kaggle
      * Image Classifier with RN
      * Sentiment Prediction with RNNs
  * **Scikit-Learn**
      * Titanic survive prediction - Kaggle
+     
+### Bibliografia 
+* **Udemy**
+    * <a href='https://www.udemy.com/python-para-data-science-e-machine-learning/'>Python para Data Science e Machine Learning - COMPLETO</a>
+* **Udacity**
+    * <a href='https://www.udacity.com/course/machine-learning--ud262'>Machine Learning</a>
+    * <a href='https://www.udacity.com/facebook-pytorch-scholarship'>PyTorch Scholarship Challenge - Nanodegree</a>
