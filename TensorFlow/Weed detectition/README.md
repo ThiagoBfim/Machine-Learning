@@ -4,6 +4,9 @@ This project use [Kaggle dataset](https://www.kaggle.com/fpeccia/weed-detection-
 
 This project contains two files, one with Keras, and other with Neural Network from scratch
 
+![](assets/classification.png)
+
+
 ## Reference
 - [Kaggle](https://www.kaggle.com/fpeccia/weed-detection-in-soybean-crops)
 - [Keras](https://keras.io/)
