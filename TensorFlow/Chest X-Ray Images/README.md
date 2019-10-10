@@ -3,6 +3,6 @@
 This project is for Pneumonia classification.
 
 ## Reference
-- [Kaggle] (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+- [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 - [Keras](https://keras.io/)
 Project for Siraj course to learn ML with python.
