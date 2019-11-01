@@ -2,9 +2,9 @@
 
 This project use [Kaggle dataset](https://www.kaggle.com/fpeccia/weed-detection-in-soybean-crops) to predict weed detection in soybean crops.
 
-This project contains two files, one with Keras, and other with Neural Network from scratch
+This project contains tree files, one with Keras, other with Neural Network from scratch, and other with pre-trained model(MobileNet) 
 
-![](assets/classification.png)
+![](assets/classification_mobileNet.png)
 
 
 ## Reference
