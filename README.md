@@ -15,7 +15,7 @@ A maioria desses projetos possuem um passo a passo em PT-BR para auxiliar no apr
      * Chest X-Ray Images - Kaggle
      * Weed detectition - Kaggle
       
-### Bibliografia 
+### Referência 
 * **Udemy**
     * <a href='https://www.udemy.com/python-para-data-science-e-machine-learning/'>Python para Data Science e Machine Learning - COMPLETO</a>
 * **Udacity**
